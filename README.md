@@ -5,7 +5,7 @@ __Full description about myself__
 * First name: Zhengming
 * Last name: Huang
 # Education
-Time | School | Degree
-:----|:----|:----
-2012-09 -- 2016-06|	Zhejiang University|	Bachelor
-2016-09 -- 2019-03| Zhejiang University|	Master
+Time | School | Major | Degree
+:----|:----|:----|:----
+2012-09 -- 2016-06|	Zhejiang University| Mechatronics |	Bachelor
+2016-09 -- 2019-03| Zhejiang University| Mechatronics |	Master
