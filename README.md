@@ -1,4 +1,4 @@
-$copy reserved 2019 Huang Zhengming
+&copy; Copyright reserved 2019 Huang Zhengming
 # My Profile
 __Full description about myself__
 # Basic Information
